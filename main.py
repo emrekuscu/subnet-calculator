@@ -28,6 +28,3 @@ elif int(iparray[0]) > 128 and int(iparray[0]) < 191 :
     print("Your Class: B")
 else:
     print("Your Class: C")
-
-
-    #min max ipleri hesaplıcaz babag
